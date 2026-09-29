@@ -9,7 +9,16 @@ there is a separate layout for landscape.
 
 Made for the *Google Developer Challenge Scholarship* (Android Basics, Udacity, December 2017).
 
-![Hogwarts](src/main/res/drawable/hogwarts.jpg)
+## Screenshots
+
+<p>
+  <img src="docs/start.jpg" width="24%" alt="A new match, 0 to 0">
+  <img src="docs/winner.jpg" width="24%" alt="Gryffindor wins 190 to 60">
+</p>
+<img src="docs/landscape.jpg" width="60%" alt="Landscape layout">
+
+Rendered in 2026 from the app's own layouts with [Paparazzi](https://github.com/cashapp/paparazzi):
+a new match, Gryffindor winning after catching the Snitch, and the landscape layout.
 
 This repository holds the app module (`src/`) only. To run it, create an empty Android Studio
 project and replace its `app/src` folder with this `src` folder.
